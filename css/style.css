@@ -1,1 +1,7 @@
-body {background-color: aquamarine;}
+body {background-color: aquamarine;
+font-size: 30em;
+}
+
+p {
+	font-weight: 100em;
+}
